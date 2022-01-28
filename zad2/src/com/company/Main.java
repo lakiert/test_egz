@@ -21,13 +21,13 @@ public class Main {
                     result.append(x[i]).append(" ");
                 }
 
-                System.out.println(result);
+                System.out.print(result);
 
                 while (true){
-                    System.out.println("1 ");
+                    System.out.print("1 ");
                 }
 
-                }
+            }
         };
 
 
